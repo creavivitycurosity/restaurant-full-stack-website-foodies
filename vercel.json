@@ -1,9 +1,0 @@
-{
-    "redirects": [
-      {
-        "source": "/:path*",
-        "destination": "https://restaurant-full-stack-website-foodi.vercel.app/:path*",
-        "permanent": true
-      }
-    ]
-  }
